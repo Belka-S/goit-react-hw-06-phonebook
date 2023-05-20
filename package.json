@@ -1,10 +1,9 @@
 {
-  "name": "goit-react-hw-06-phonebook",
+  "name": "goit-react-hw-04-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://belka-s.github.io/goit-react-hw-06-phonebook/",
+  "homepage": "https://belka-s.github.io/goit-react-hw-04-phonebook/",
   "dependencies": {
-    "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
@@ -14,9 +13,7 @@
     "prop-types": "^15.8.1",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
-    "react-redux": "^8.0.5",
     "react-scripts": "5.0.1",
-    "redux-persist": "^6.0.0",
     "styled-components": "^5.3.9",
     "typeface-montserrat": "^1.1.13",
     "typeface-roboto": "^1.1.13",
